@@ -1,6 +1,12 @@
 #### SCHOOL_SHOOTINGS_SIMULATION
 # USA SCHOOL SHOOTINGS FORECASTING
 
+##Integrantes:
+* Diego Armando Villamizar Correa
+* Jose Saul Vega Arrieta
+* Oscar Esneyder Sinuco Tirado
+* Cristian Andrés Picón Rodríguez
+
 ## OVERVIEW
 
 <img src='/images/dataset.png' width='800px'>
